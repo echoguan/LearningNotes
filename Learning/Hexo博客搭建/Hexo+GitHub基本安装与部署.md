@@ -60,5 +60,5 @@ http://tengj.top/2016/02/22/hexo1/
 
 
 > 参考
-* 嘟嘟MD - [hexo干货系列：（一）hexo+gitHub搭建个人独立博客](http://tengj.top/2016/02/22/hexo1/)
-* CrazyMilk - [GitHub Pages + Hexo搭建博客](http://crazymilk.github.io/2015/12/28/GitHub-Pages-Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/)
+> * 嘟嘟MD - [hexo干货系列：（一）hexo+gitHub搭建个人独立博客](http://tengj.top/2016/02/22/hexo1/)
+> * CrazyMilk - [GitHub Pages + Hexo搭建博客](http://crazymilk.github.io/2015/12/28/GitHub-Pages-Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/)
