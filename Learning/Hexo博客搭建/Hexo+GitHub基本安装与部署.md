@@ -24,7 +24,7 @@
   hexo g
   hexo s
 ```
-5. 然后就可以访问 http://localhost:4000/ ，在本地看到你的博客了，当然本地别人是看不到的，所以接下来需要部署到GitHub上。
+5. 然后就可以访问 http://localhost:4000/ ，在本地看到你的博客了，当然别人是看不到的，所以接下来需要部署到GitHub上。
 
 ## 二、创建对应GitHub Pages仓库
 1. 在GitHub上创建一个新的仓库，用于存放Hexo博客，命名必须为**username.github.io**（username是你GitHub账号名)
@@ -51,9 +51,6 @@ hexo g
 hexo s
 ```
 5. 之后访问username.github.io，就可以看到你的博客啦
-
-
-http://crazymilk.github.io/2015/12/28/GitHub-Pages-Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/
 
 ## 发表一篇文章
 
