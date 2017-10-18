@@ -1,6 +1,8 @@
 # 使用Git管理HEXO
 
 ## 概述
+>Hexo部署到GitHub上的文件，是.md(即你的文章)转换之后的.html静态页面。
+
 在你的GitHub Pages存放仓库，
 
 > 参考
