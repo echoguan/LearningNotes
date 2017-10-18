@@ -14,8 +14,8 @@
 
 #### QuickStart
 1. 使用`npm`安装Hexo: `npm install -g hexo`
-2. 安装完成后，在你想要放置个人博客文件的目录下，执行`hexo init`
-3. 安装依赖包，执行命令`npm install`。这样Hexo博客目录就搭好了。
+2. 安装完成后，在你想要放置个人博客文件的目录下（例如`E:\Hexo`），执行`hexo init`
+3. 安装依赖包，在`E:\Hexo`下，执行命令`npm install`。这样Hexo博客目录就搭好了。
 4. 接下来在本地预览一下博客吧。在博客目录下执行
 ```
   hexo g
