@@ -48,12 +48,15 @@ npm install hexo-deployer-git --save
 4. 执行以下命令完成部署
 ```
 hexo g
-hexo s
+hexo d
 ```
 5. 之后访问username.github.io，就可以看到你的博客啦
 
 ## 发表一篇文章
-
+1. 执行下列命令生成新文章
+```
+$ hexo new "新文章"
+```
 
 http://tengj.top/2016/02/22/hexo1/
 
