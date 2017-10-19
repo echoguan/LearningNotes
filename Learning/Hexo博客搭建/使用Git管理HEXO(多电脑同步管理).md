@@ -15,6 +15,7 @@
 > 把博客deploy到GitHub pages的时候会自动部署到配置的分支上。
 
 3. 然后提交相关的网站文件到GitHub的hexo branch上。
+> Hexo生成的网站文件中自带有`.gitignore`文件
 
 ## 其他电脑使用步骤
 1. Clone Repository 到本地机器（此时为默认分支hexo）
