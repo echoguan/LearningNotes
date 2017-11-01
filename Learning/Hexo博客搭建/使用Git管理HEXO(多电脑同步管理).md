@@ -25,8 +25,8 @@ $ npm install
 ```
 3. 再执行下列命令即可在[本地](http://localhost:4000/)查看博客
 ```
-$ npm g
-$ npm s
+$ hexo g
+$ hexo s
 ```
 4. 其他代码同步、部署等操作直接执行即可
 
