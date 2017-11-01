@@ -8,13 +8,13 @@
 > 而在仓库里新建一个分支存放来存放Hexo网站的文件则是一个十分方便的方式。**hexo branch -- 博客备份；master branch -- 发布网站。**
 
 ## 管理方式
-1. 在你的GitHub Pages存放仓库，新建一个分支：hexo，并设置为默认分支。
+1. 在你的GitHub Pages存放仓库，新建一个分支：hexo，并将hexo设置为默认分支。  
 > 因为我们只需要手动管理hexo分支上的文件，设为默认分支比较方便。
 
 2. 在你本地的`echoguan.github.io`文件夹中，修改`_config.yml`文件中的`deploy`参数，`branch`为`master`。
 > 把博客deploy到GitHub pages的时候会自动部署到配置的分支上。
 
-3. 然后提交相关的网站文件到GitHub的hexo branch上。
+* 将你的博客的所有网站文件放置到hexo分支目录下，并将theme主题文件夹内的.git文件夹删掉。然后提交相关的网站文件到GitHub的hexo branch上。  
 > Hexo生成的网站文件中自带有`.gitignore`文件
 
 ## 其他电脑使用步骤
