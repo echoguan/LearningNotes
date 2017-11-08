@@ -5,9 +5,9 @@
 ### Coding配置
 1. 如果没有Coding账号，注册一个。
 2. 在Coding上新建一个项目。
-  * 项目名称建议与用户名相同。这样在访问 [yourusername.coding.me](yourusername.coding.me)就可以访问博客；否则还需要带上项目名，即访问[yourusername.coding.me/项目名](yourusername.coding.me/项目名)才能访问到你的博客。
-  * 项目设置为私有
-  * 如果是第一次使用Coding，需要设置SSH公钥。可以参考[配置 SSH 公钥访问代码仓库](https://coding.net/help/doc/account/ssh-key.html)
+   * 项目名称建议与用户名相同。这样在访问 [yourusername.coding.me](yourusername.coding.me)就可以访问博客；否则还需要带上项目名，即访问[yourusername.coding.me/项目名](yourusername.coding.me/项目名)才能访问到你的博客。
+   * 项目设置为私有
+   * 如果是第一次使用Coding，需要设置SSH公钥。可以参考[配置 SSH 公钥访问代码仓库](https://coding.net/help/doc/account/ssh-key.html)
 
 ### `_config.yml`配置
 为了同时可以部署到两个平台，就需要`_config.yml`的`deploy`属性
