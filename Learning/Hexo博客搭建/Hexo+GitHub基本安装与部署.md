@@ -52,13 +52,18 @@ hexo d
 ```
 5. 之后访问username.github.io，就可以看到你的博客啦
 
-## 发表一篇文章
+## Hexo简单写作
+### 发表一篇文章
 1. 执行下列命令生成新文章
 ```
 $ hexo new "新文章"
 ```
 
-http://tengj.top/2016/02/22/hexo1/
+2. 关于草稿
+```
+$ hexo new draft "新草稿"	#生成一篇新草稿，默认不会发布
+$ hexo publish "草稿名"	#发布草稿
+```
 
 
 
